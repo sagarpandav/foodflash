@@ -1,0 +1,63 @@
+body{
+  /*background-color: #DCDCDC;*/
+    background-color: #222222;
+    padding-top: 70px;
+
+}
+.Line2{
+	margin-top: 50px;
+  margin-bottom: 100px;
+}
+.Line2 h2{
+  color: white;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: inherit;
+  font-weight: 500; 
+}
+.Line2 form {
+  position: relative;
+  padding-top: 15px;
+  max-width: 320px;
+  width: 100%;
+  border-top: 5px solid black;
+  /*border-bottom: 5px solid #33b5e5;*/
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  margin: 10px  ;
+}
+.Line2 form input[type=text],[type=password],[type=email],[type=tel] {
+  outline: none;
+  height: auto;
+    background: #ffffff;
+  margin-top: 0px; 
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #d9d9d9;
+  padding: 20px;
+  box-sizing: border-box;
+  font-weight: 400;
+}
+.Line2 input[type=submit]{
+    margin-bottom: 5px;
+    background-color: #DCDCDC; 
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    border: transparent;
+    border-radius: 5px; 
+}
+.Line2 button{
+    margin-bottom: 5px;
+    background-color: #DCDCDC; 
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    border: transparent;
+    border-radius: 5px; 
+}
