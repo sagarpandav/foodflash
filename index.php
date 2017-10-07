@@ -23,7 +23,7 @@ session_start();
 		<div class="container" id="navbar">
 		
 			<div class="col-md-6">
-				<h1><a href="index.php">BookMyFood</a></h1>
+				<h1><a href="index.php">FoodFlash</a></h1>
 			</div>
 			<div class="col-md-6" id="nav-button">
 				<ul style="display: inline;">
