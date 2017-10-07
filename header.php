@@ -40,14 +40,14 @@
 		<div class="container" id="navbar">
 		
 			<div class="col-md-6">
-				<h1><a href="index.html">BookMyFood</a></h1>
+				<h1><a href="index.php">FoodFlash</a></h1>
 			</div>
 			<div class="col-md-6" id="nav-button">
 				<ul style="display: inline;">
 					<li><b> <a href="index.html">Home</a></li>
-                    <li><a href="index.html#services" class="smoothScroll">Services</a></li>
+                    <li><a href="index.php#services" class="smoothScroll">Services</a></li>
                     <li><a href="restaurant.php">Restaurants</a></li>
-                    <li><a href="index.html#contact" class="smoothScroll">Contact Us</a></li>
+                    <li><a href="index.php#contact" class="smoothScroll">Contact Us</a></li>
 					<li><a href="login.php">Login</a></li>
 					<li><a href="signin.php">Sign up</a></b></li>
 				</ul>
